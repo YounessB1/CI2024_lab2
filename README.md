@@ -7,7 +7,7 @@ strategies :
 Best perfomring strategy is the greedy one following the results
 
 | COUNTRY | COST GREEDY | COST GA|
-|---------|-------||-------|
+|---------|-------|-------|
 | vanuatu|  1475 | 1345 |
 | italy  | 4730  | 4670 |
 | russia | 39758 | 120723 |
